@@ -29,6 +29,7 @@ Overall, the File Handling Utility using Java demonstrates the practical impleme
 
 
 #OUTPUT#:<img width="423" height="971" alt="Image" src="https://github.com/user-attachments/assets/c3988b53-60c0-41b1-91af-3460d83d6f28" />
+
 <img width="380" height="447" alt="Image" src="https://github.com/user-attachments/assets/89ddae49-6bfe-496c-9c8e-8217bafc7e30" />
 
 
